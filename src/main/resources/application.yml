@@ -1,0 +1,13 @@
+server:
+    port: 9001
+websocket:
+    server:
+        host: 127.0.0.1
+        port: 8089
+        nodes: ****************,****************,****************,****************
+  profiles:
+    active: dev
+
+
+
+
